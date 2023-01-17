@@ -13,12 +13,13 @@ Welcome to my page! I'm from china , currently living in Seoul,South of Korea!
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="MariaDB" src="https://shields.io/badge/MariaDB%20-003545.svg?logo=MariaDB&style=for-the-badge&logoColor=white"/>
 <img alt="Mysql" src="https://shields.io/badge/MySQL%20-4479A1.svg?logo=MySQL&style=for-the-badge&logoColor=white"/>
+<img alt="Oracle" src="https://shields.io/badge/Oracle%20-F80000.svg?logo=Oracle&style=for-the-badge&logoColor=white"/>
 <img alt="Node" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/react.js-35495E?style=for-the-badge&logo=react"/>
 <img alt="Vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs"/>
 <img alt="Vuejs" src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git"/>
-<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis"/>
+<img alt="Redis" src="https://img.shields.io/badge/Redis-35495E?style=for-the-badge&logo=Redis"/>
 </p>
 
 - Node, Express framework
