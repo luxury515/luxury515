@@ -18,6 +18,7 @@ Welcome to my page! I'm from china , currently living in Seoul,South of Korea!
 <img alt="Vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs"/>
 <img alt="Vuejs" src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git"/>
+<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis"/>
 </p>
 
 - Node, Express framework
@@ -35,8 +36,10 @@ Welcome to my page! I'm from china , currently living in Seoul,South of Korea!
 https://rainsister.tistory.com/
 
 ## Contact
-Mail : bccai515@gamil.com luxury515@naver.com
-kakaotalk ID : bccai515
+<li>Gmail : bccai515@gamil.com</li> 
+<li>Naver Mail : luxury515@naver.com</li>
+<li>Kakaotalk ID : bccai515</li>
+
 #### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luxury515&layout=compact)](https://github.com/luxury515/github-readme-stats)
 #### Github Stats
