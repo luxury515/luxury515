@@ -29,7 +29,7 @@ Welcome to my page! I'm from china , currently living in Seoul,South of Korea!
 - Docker
 - Git
 <h3>Where to find me</h3>
-<p><a href="https://github.com/luxury515" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><img alt="Tistory" src="https://img.shields.io/badge/tistory-%FFFFF.svg?&style=for-the-badge&logo=tistory&logoColor=black" /></a>
+<p><a href="https://github.com/luxury515" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><img alt="Tistory" src="https://img.shields.io/badge/tistory-white.svg?&style=for-the-badge&logo=tistory&logoColor=black" /></a>
 </p>
 ## Blog link
 https://rainsister.tistory.com/
