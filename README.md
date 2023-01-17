@@ -49,3 +49,9 @@ https://rainsister.tistory.com/
 #### Metrics Stats
 ![Metrics](https://metrics.lecoq.io/luxury515?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FSeoul)
 
+## pin
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luxury515&repo=github-readme-stats)](https://github.com/luxury515/github-readme-stats)
+
+## waketime
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luxury515)](https://github.com/luxury515/github-readme-stats)
+
