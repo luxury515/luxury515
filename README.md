@@ -21,20 +21,36 @@ Welcome to my page! I'm from china , currently living in Seoul,South of Korea!
 <img alt="Git" src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git"/>
 <img alt="Redis" src="https://img.shields.io/badge/Redis-35495E?style=for-the-badge&logo=Redis"/>
 </p>
+</br>
 
-- Node, Express framework
-- HTML, CSS , Jquery
-- React.js & Vue2 ,Vue3 (ES5,6,8)
-- Backend Web Development
-- Frontend Development
-- MySQL , Oracle
-- Docker
-- Git
+#### Backend Web Development
+<li>Spring,Springboot</li>
+<li>JPA</li>
+<li>Node, Express framework</li>
+</br>
+
+#### Frontend Development
+<li>HTML, CSS , Jquery</li>
+<li>React.js & Vue2 ,Vue3 (ES5,6,8)</li>
+</br>
+
+#### Database
+<li>MySQL , Oracle</li>
+</br>
+
+#### Other
+<li>Docker</li>
+<li>Git</li>
+</br>
+
 <h3>Where to find me</h3>
-<p><a href="https://github.com/luxury515" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><img alt="Tistory" src="https://img.shields.io/badge/tistory-white.svg?&style=for-the-badge&logo=tistory&logoColor=black" /></a>
+<p><a href="https://github.com/luxury515"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://rainsister.tistory.com"><img alt="Tistory" src="https://img.shields.io/badge/tistory-white.svg?&style=for-the-badge&logo=tistory&logoColor=black" /></a>
 </p>
+</br>
+
 ## Blog link
-https://rainsister.tistory.com/
+https://rainsister.tistory.com
 
 ## Contact
 <li>Gmail : bccai515@gamil.com</li> 
