@@ -2,6 +2,10 @@
 ## About me
 
 Welcome to my page! I'm from china , currently living in Seoul,South of Korea!
+<p>
+
+<a href="https://app.daily.dev/blakeChae"><img src="https://api.daily.dev/devcards/f7b95bfe81764a34a84f8dbaa8a9cf8e.png?r=41t" width="400" alt="신비한 비 저장소's Dev Card"/></a>
+</p>
 
 ## 💻 Things I code with
 
