@@ -56,6 +56,15 @@ Welcome to my page! I'm from china , currently living in Seoul,South of Korea!
 ## Blog link
 https://rainsister.tistory.com
 
+About springboot 2.x
+https://blakes-organization.gitbook.io/springboot2/
+
+About Back-end 
+https://blakes-organization.gitbook.io/and-and-x/
+
+About design pattern:
+https://blakes-organization.gitbook.io/design-pattern/
+
 ## Contact
 <li>Gmail : bccai515@gamil.com</li> 
 <li>Naver Mail : luxury515@naver.com</li>
